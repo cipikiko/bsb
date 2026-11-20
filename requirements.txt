@@ -1,0 +1,13 @@
+# Experiment 1 (passwords.py)
+bcrypt
+argon2-cffi
+zxcvbn
+py-cpuinfo
+# Experiment 2 (face.py)
+deepface
+tf-keras
+scikit-learn
+# spoločné
+pandas
+numpy
+matplotlib

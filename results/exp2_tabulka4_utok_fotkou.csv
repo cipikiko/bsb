@@ -1,0 +1,7 @@
+osoba,typ,pocet,tvar_najdena,prijate_predvoleny_prah,prijate_prah_EER,priemerna_vzdialenost
+Branislav,skutočná fotka,4,4,3,3,0.366
+Branislav,útok fotkou,5,5,4,4,0.37
+Roman,skutočná fotka,4,4,4,4,0.18
+Roman,útok fotkou,5,5,5,5,0.179
+Simon,skutočná fotka,4,4,4,4,0.147
+Simon,útok fotkou,5,5,4,4,0.303
